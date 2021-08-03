@@ -14,3 +14,6 @@ Repo for Princeton Algorithms Part I, II on Coursera
 ## Textbook
 - [Algorithms 4th Edition on O'Reilly](https://learning.oreilly.com/library/view/algorithms-fourth-edition/9780132762564/)
 - By Robert Sedgewick, Kevin Wayne
+
+### Booksite
+- https://algs4.cs.princeton.edu/home/
