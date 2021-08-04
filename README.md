@@ -17,3 +17,13 @@ Repo for Princeton Algorithms Part I, II on Coursera
 
 ### Booksite
 - https://algs4.cs.princeton.edu/home/
+
+## Reference
+- [PrincetonAlgorithms](https://github.com/dvklopfenstein/PrincetonAlgorithms)
+- [algorithm-princeton](https://github.com/mincong-h/algorithm-princeton)
+- [princeton-algs4](https://github.com/vgoodvin/princeton-algs4)
+- [Algs4](https://github.com/vancexu/Algs4)
+- [Algorithms-Princeton-Coursera](https://github.com/Maecenas/Algorithms-algs4-cos226-Princeton-Coursera)
+- [princeton-java-algorithms](https://github.com/fracpete/princeton-java-algorithms)
+- [Algorithms-Part1---Assignments](https://github.com/ISchwarz23/Algorithms-Part1---Assignments)
+- [princeton-algorithms](https://github.com/keyvanakbary/princeton-algorithms)
