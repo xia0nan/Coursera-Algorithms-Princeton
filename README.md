@@ -8,8 +8,9 @@ Repo for Princeton Algorithms Part I, II on Coursera
 ## Setup Java Env
 - https://lift.cs.princeton.edu/java/mac/
 
-## Exercises
+## Part I Exercises
 - [Hello, World](https://coursera.cs.princeton.edu/algs4/assignments/hello/specification.php)
+- [Percolation](https://coursera.cs.princeton.edu/algs4/assignments/percolation/specification.php)
 
 ## Textbook
 - [Algorithms 4th Edition on O'Reilly](https://learning.oreilly.com/library/view/algorithms-fourth-edition/9780132762564/)

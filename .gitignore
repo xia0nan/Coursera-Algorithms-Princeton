@@ -1,4 +1,6 @@
 .DS_Store
+.vs_code/
+.idea/
 
 # Compiled class file
 *.class
